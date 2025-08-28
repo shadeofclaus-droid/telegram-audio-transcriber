@@ -1,0 +1,6 @@
+[phases.setup]
+# Include default packages and ffmpeg
+nixPkgs = ["...", "ffmpeg"]
+
+[start]
+cmd = "python main.py"
