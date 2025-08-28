@@ -32,8 +32,7 @@ Prerequisites:
 * A Telegram bot token – create one via ``@BotFather`` and set it as
   the environment variable ``TELEGRAM_BOT_TOKEN``.
 * An OpenAI API key for the Whisper transcription endpoint – set it
-  as the environment variable ``OPENAI_API_KEY``.  See
-  https://platform.openai.com/docs/api-reference/audio/create
+  as the environment variable ``OPENAI_API_KEY``.  See  https://platform.openai.com/docs/api-reference/audio/create
   for details.
 
 Usage:
